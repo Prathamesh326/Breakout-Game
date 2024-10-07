@@ -14,7 +14,7 @@ Welcome to the **Breakout Game**! This is a classic brick-breaking arcade game b
 
 ## Game Preview
 
-![Breakout Game Screenshot](Screenshot (8).png) <!-- Replace with actual screenshot -->
+![Breakout Game Screenshot](https://github.com/Prathamesh326/Breakout-Game/blob/a05f05c764b5969583aee47d482288cb69ece171/Screenshot%20(8).png)
 
 ## Features
 - Dynamic paddle movement
